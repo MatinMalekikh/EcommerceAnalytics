@@ -1,0 +1,15 @@
+# Local datasets
+data/
+*.xlsx
+*.xls
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Temporary files
+*.tmp
+*.log
